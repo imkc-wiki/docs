@@ -104,7 +104,7 @@ https://imgur.com/a/BX0tDkT
 
 # Springs
 Note: progressive springs are debatable with actual measurements showing an almost linear increase
-![Springs](https://media.discordapp.net/attachments/716140277911519232/737226811301298176/Screenshot_2020-07-27_at_2.05.41_PM.png)
+![Springs](https://static.wixstatic.com/media/a401be_28d22db78eb34d0c9749433d0cf21218~mv2.png/v1/fill/w_500,h_333,al_c,q_90,usm_0.66_1.00_0.01/a401be_28d22db78eb34d0c9749433d0cf21218~mv2.webp)
 # Typing Websites
 
  - https://10fastfingers.com/
