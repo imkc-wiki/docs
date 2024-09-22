@@ -37,11 +37,11 @@ Got suggestions/updates for this sheet, add them [HERE](https://forms.gle/qAR3ny
  - [https://acekbd.com/ ](https://acekbd.com/ "https://acekbd.com/")
  - [https://curiositycaps.in/](https://curiositycaps.in/ "https://curiositycaps.in")
  - [https://esckey.in/](https://esckey.in/ "https://esckey.in/")
+ - [https://ctrlshiftstore.com/](https://ctrlshiftstore.com/ "https://ctrlshiftstore.com/")
 
 **For Cables**
 
  - [https://www.kablemakers.com/usb-cables](https://www.kablemakers.com/usb-cables "https://www.kablemakers.com/usb-cables")  
- - [https://cablesutra.shop/](https://cablesutra.shop/ "https://cablesutra.shop/")
 
 # Prebuilts
 
