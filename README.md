@@ -38,6 +38,7 @@ Got suggestions/updates for this sheet, add them [HERE](https://forms.gle/qAR3ny
  - [https://curiositycaps.in/](https://curiositycaps.in/ "https://curiositycaps.in")
  - [https://esckey.in/](https://esckey.in/ "https://esckey.in/")
  - [https://ctrlshiftstore.com/](https://ctrlshiftstore.com/ "https://ctrlshiftstore.com/")
+ - [https://www.keebsmod.com/](https://www.keebsmod.com/ "https://www.keebsmod.com/")
 
 **For Cables**
 
